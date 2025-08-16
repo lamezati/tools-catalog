@@ -1,0 +1,14 @@
+{
+  "updatedAt": "2025-01-01T00:00:00.000Z",
+  "tools": [
+    {
+      "id": "photo-editor",
+      "name": "Photo Editor",
+      "description": "Crop, resize, filters and basic adjustments.",
+      "version": "1.0.0",
+      "sizeMB": 15,
+      "downloadUrl": "https://example.com/tools/photo-editor-1.0.0.zip"
+    }
+  ]
+}
+
